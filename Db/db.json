@@ -1,0 +1,9 @@
+{
+  "restaurants":[
+    {
+      "id": 1,
+      "name": "KFC restaurant",
+      "addreass": "noida sector 50"
+    }
+  ]
+}
